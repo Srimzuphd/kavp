@@ -1,0 +1,2 @@
+[console_scripts]
+kavp = kavp.cli:main
