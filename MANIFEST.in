@@ -1,0 +1,15 @@
+include README.md
+include CHANGELOG.md
+include CONTRIBUTING.md
+include CODE_OF_CONDUCT.md
+include SECURITY.md
+include CITATION.cff
+include LICENSE
+
+recursive-include src/kavp *.py
+recursive-include src/kavp py.typed
+
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude .DS_Store
+global-exclude *.egg-info

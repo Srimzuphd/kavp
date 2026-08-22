@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use KAVP in your research, please cite it."
+title: "KAVP: Knowledge-Based Policy-Aware Federated AI Framework"
+version: "0.1.1"
+date-released: "2026-08-22"
+authors:
+  - family-names: "Contributors"
+    given-names: "KAVP"
+repository-code: "https://github.com/Srimzuphd/kavp"
+url: "https://github.com/Srimzuphd/kavp"
